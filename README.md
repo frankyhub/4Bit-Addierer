@@ -10,3 +10,6 @@ Projekt Gymnasium Tegernsee
 
 ## Schaltplan
 ![image](https://github.com/frankyhub/png/blob/master/4Bit_Adierer.png)
+
+
+![image](https://github.com/frankyhub/png/blob/master/Schaltplan%20Volladdiererpng.png)
