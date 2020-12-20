@@ -18,5 +18,5 @@ Projekt Gymnasium Tegernsee
 ![image](https://github.com/frankyhub/png/blob/master/4Bit_Adierer.png)
 
 
-## 4Bit-Addierer
+## 4Bit-Addierer im Gehäuse
 ![image](https://github.com/frankyhub/png/blob/master/4-Bit-Addierer-Geh%C3%A4use.JPG)
