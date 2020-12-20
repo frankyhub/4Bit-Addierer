@@ -1,6 +1,9 @@
 # 4Bit-Addierer
 Projekt Gymnasium Tegernsee
 
+## Dokumentation
+[Link](https://github.com/frankyhub/4Bit-Addierer/blob/main/doc/4-Bit-Addierer-Dokumentation.pdf)
+
 ## Frontplatte
 ![image](https://github.com/frankyhub/png/blob/master/Frontplatte.png)
 
