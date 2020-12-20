@@ -12,11 +12,10 @@ Projekt Gymnasium Tegernsee
 ![image](https://github.com/frankyhub/png/blob/master/4Bit_Addierer.png)
 
 ## Schaltplan
-![image](https://github.com/frankyhub/png/blob/master/4Bit_Adierer.png)
-
-
 
 ![image](https://github.com/frankyhub/png/blob/master/Schaltplan%20Volladdierer.png)
+
+![image](https://github.com/frankyhub/png/blob/master/4Bit_Adierer.png)
 
 
 ## 4Bit-Addierer
